@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1078788514334",
+    "project_id": "reservar-cita",
+    "storage_bucket": "reservar-cita.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078788514334:android:227ee1e4d1c2cd9eb1440f",
+        "android_client_info": {
+          "package_name": "com.example.reservarcita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078788514334-qsf51e0e1qkik5ib178qvimt4gkugkgl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.reservarcita",
+            "certificate_hash": "ed7be283a5611aeb78aafa8a35f4a87aa3d47b9b"
+          }
+        },
+        {
+          "client_id": "1078788514334-dt293v1nbeutuq0qrodbtltf82mlh39j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3NcZLzKvjI8YrBHKW85eXRec_Q-IREDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078788514334-dt293v1nbeutuq0qrodbtltf82mlh39j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Reservar Cita</string>
+    <string name="Correo">Correo</string>
+    <string name="Contraseña">Contraseña</string>
+    <string name="Inicio">Inicia sesión con tu cuenta o registrate</string>
+    <string name="BtnEntrar">Entrar</string>
+    <string name="BtnInicioS">Registrarse</string>
+    <string name="Telefono">Número télefonico</string>
+    <string name="Nombre">Nombre</string>
+    <string name="BtnRegistrar">Registrar</string>
+    <string name="Registrar">Ingresa tus datos</string>
+    <string name="BtnCita">Cita</string>
+    <string name="BtnServicios">Servicios adicionales</string>
+    <string name="BtnAgCita">Agendar cita</string>
+    <string name="BtnConfiCita">Confirmar cita</string>
+    <string name="AgendarCita">Agende su cita</string>
+    <string name="Servicios">Servicios adicionales para su cita</string>
+    <string name="DetallesCita">Detalles de la cita</string>
+    <string name="BtnListaCita">Citas reservadas</string>
+    <string name="ListaCitas">Citas reservadas</string>
+</resources>
